@@ -9,16 +9,17 @@ Skills:
 * Currently pursuing full-stack Python development training with E-mexo Technologies in E-city, Bengaluru.
 
 Certifications:
-* Python Certification from Scalar.
+* Python Certification from CISCO.
+* Python Certification from Scaler.
 * SQL RDMS Certification from IBM.
   
 Education:
   Bachelor of Engineering in Mechanical Engineering (Adhiyamaan College of Engineering).
   
 Interests:
-* Software Development
-* Web Development
-* Database Handling
+* Software Development.
+* Web Development.
+* Database Handling.
   
 Contact:
 Email: dineshdk12300@gmail.com
