@@ -14,7 +14,8 @@ Certifications:
 * SQL RDMS Certification from IBM.
   
 Education:
-  Bachelor of Engineering in Mechanical Engineering (Adhiyamaan College of Engineering).
+  Bachelor of Engineering in Mechanical Engineering (Currently Pursuing)
+  (Adhiyamaan College of Engineering).
   
 Interests:
 * Software Development.
