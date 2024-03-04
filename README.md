@@ -7,10 +7,6 @@
 * Proficient in Python and SQL.
 * Familiar with HTML, CSS, and JavaScript.
 
-### Learning Journey
-
-🚀 At E-Mexo Technologies, I'm actively engaged in a Full Stack Python course, dedicated to enhancing my skills and knowledge in the technological domain.
-
 ### Certifications
 
 * Python Certification from CISCO.
